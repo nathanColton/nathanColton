@@ -26,9 +26,4 @@
 -----
 [I'm an inline-style link](https://www.google.com)
 -----
-<iframe width="950" height="534" src="https://www.youtube.com/embed/DHkzfn-Ra7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<a href="https://www.youtube.com/watch?v=DHkzfn-Ra7k" target="_blank">
-  <img src="https://images.app.goo.gl/3Cezt5Gbhf7FaPed7" alt="Embedded Youtube Video" width="240" height="180" border="10" />
-</a>
