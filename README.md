@@ -26,5 +26,6 @@
 -----
 [I'm an inline-style link](https://www.google.com)
 -----
-<a href="https://www.youtube.com/watch?v=DHkzfn-Ra7k" target="_blank"><img src="https://images.app.goo.gl/3Cezt5Gbhf7FaPed7" 
-alt="Embedded Youtube Video" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=DHkzfn-Ra7k" target="_blank">
+  <img src="http://images.app.goo.gl/3Cezt5Gbhf7FaPed7" alt="Embedded Youtube Video" width="240" height="180" border="10" />
+</a>
