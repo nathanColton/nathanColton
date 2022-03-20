@@ -20,4 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
 
 <hr>
+Links <br>
 [I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
