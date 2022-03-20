@@ -17,4 +17,4 @@
 <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanColton&theme=chartreuse-dark" alt="my commit status" width="49%"/>
 <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
