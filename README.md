@@ -26,5 +26,5 @@
 -----
 [I'm an inline-style link](https://www.google.com)
 -----
-(https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
