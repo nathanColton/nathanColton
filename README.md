@@ -13,3 +13,4 @@
 
 ![](https://komarev.com/ghpvc/?username=nathanColton)
 <br>
+ <img src="https://github-readme-stats.vercel.app/api?username=nathanColton&theme=chartreuse-dark" alt="my github stats" width="49%"/>
