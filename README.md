@@ -20,4 +20,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartreuse-dark&layout=compact" alt="languages" width="49%">
 
 <hr>
-[the Coding Career Handbook](https://www.learninpublic.org) 
+![the Coding Career Handbook](https://www.learninpublic.org) 
