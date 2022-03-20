@@ -9,3 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 📈 Statistics
+
+![](https://komarev.com/ghpvc/?username=nathanColton)
+<br>
