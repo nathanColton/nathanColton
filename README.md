@@ -44,19 +44,16 @@
 ###
 <table style="width:100%">
   <tr>
-    <th>Person 1</th>
-    <th>Person 2</th>
-    <th>Person 3</th>
+    <th>Project Demo</th>
+    <th>Project Link</th>
+    <th>Stack</th>
+    <th>Project Preview </th>
   </tr>
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>14</td>
-    <td>10</td>
+    <td><p>[IOS Calculator](https://axel-ac.github.io/IOS-calculator/)</p></td>
+    <td><p>[Repo](https://github.com/axel-ac/IOS-calculator)</p> </td>
+    <td><p>Vanilla JS</p></td>
+    <td><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
 </table>
 
