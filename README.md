@@ -53,7 +53,7 @@
     <td><a href="https://axel-ac.github.io/IOS-calculator/">IOS Calculator<a/></td>
     <td><a href="https://github.com/axel-ac/IOS-calculator">Repo Link</a> </td>
     <td><p>Vanilla JS</p></td>
-    <td><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif" width="50%"/></p></td>
   </tr>
 </table>
 
